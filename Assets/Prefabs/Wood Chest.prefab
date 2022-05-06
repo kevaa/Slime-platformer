@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8864600653299403886
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6601375630177964612, guid: 35128aee76570d14bb6784ee3002a25d,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601375630177964612, guid: 35128aee76570d14bb6784ee3002a25d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601375630177964612, guid: 35128aee76570d14bb6784ee3002a25d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601375630177964612, guid: 35128aee76570d14bb6784ee3002a25d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601375630177964612, guid: 35128aee76570d14bb6784ee3002a25d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601375630177964612, guid: 35128aee76570d14bb6784ee3002a25d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601375630177964612, guid: 35128aee76570d14bb6784ee3002a25d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601375630177964612, guid: 35128aee76570d14bb6784ee3002a25d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601375630177964612, guid: 35128aee76570d14bb6784ee3002a25d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601375630177964612, guid: 35128aee76570d14bb6784ee3002a25d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601375630177964612, guid: 35128aee76570d14bb6784ee3002a25d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601375630177964618, guid: 35128aee76570d14bb6784ee3002a25d,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 83cb5c05b5dec0541ad43877d6b8ff6b, type: 2}
+    - target: {fileID: 6601375630177964619, guid: 35128aee76570d14bb6784ee3002a25d,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -1309413244939661745, guid: 19e07f9d107e445408633f50457d456e,
+        type: 3}
+    - target: {fileID: 6601375630177964619, guid: 35128aee76570d14bb6784ee3002a25d,
+        type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601375630177964623, guid: 35128aee76570d14bb6784ee3002a25d,
+        type: 3}
+      propertyPath: m_Name
+      value: Wood Chest
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 35128aee76570d14bb6784ee3002a25d, type: 3}
